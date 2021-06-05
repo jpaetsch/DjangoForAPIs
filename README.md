@@ -8,7 +8,7 @@
 * [Sources](#sources)
 
 ## Summary
-Reading through the Django For APIs book by William S. Vincent (2020). Each folder contains a different project from the book for implementation practice. Practice using the Django framework, python virtual environments, Django Rest Framework, api endpoints, and related web technology stacks.
+Reading through the Django For APIs book by William S. Vincent (2020). Each folder contains a different project from the book for implementation practice. Practice using the Django framework, python virtual environments, Django Rest Framework, api endpoints, JavaScript (React), related web technology stacks.
 
 ## Setup & Usage
 Load repository and for each project activate the python environment / run as a local Django server.
@@ -17,8 +17,9 @@ Load repository and for each project activate the python environment / run as a 
 ...
 
 ## Technologies
-* Django is a fullstack framework but languages primarily include Python, HTML, CSS, Javascript, etc.
+* Django is a fullstack framework but languages used in these projects primarily include Python, HTML, CSS, JavaScript, etc.
 * Django Rest Framework package
+* React (JavaScript library)
 * Venv is used for Python virtual environments
 * Other libraries, packages, and development principles touched on especially with regards to performance and security in Django projects
 
